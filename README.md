@@ -1,40 +1,94 @@
-<!--
-👋 Hi, I'm Syed Faraaz Ahmed!
-📍 San Jose, CA | LinkedIn | 📧 syedfaraaz.ahmd@gmail.com
+<!-- GitHub Profile README for Syed Faraaz Ahmed -->
+<h1 align="center">👋 Hi, I'm Syed Faraaz Ahmed</h1>
+<p align="center">📍 San Jose, CA | 💼 Data Engineer | 📊 Data Analyst | 🤖 ML Enthusiast</p>
+<p align="center">📧 syedfaraaz.ahmd@gmail.com | 🌐 <a href="https://your-portfolio-link.com">Portfolio</a> | <a href="https://www.linkedin.com/in/syedfaraaz/">LinkedIn</a></p>
 
-🔍 Data Engineer | Data Analyst | Machine Learning Enthusiast
+---
 
-📊 Passionate about turning data into insights through SQL, Python, Power BI, Tableau & Cloud Technologies
-🚀 I love working with Big Data, Real-time Streaming, ETL Pipelines, and Data Science solutions
+### 🧠 About Me
 
-🔥 Featured Projects
-📊 Real-Time Smart Bank Data Streaming
-Developed a fraud detection system using Kafka, PySpark, and MongoDB, processing over 1M+ transactions with a 99% anomaly detection rate.
-Designed Kibana and Flask dashboards with a 1s refresh rate to visualize fraud detection and transaction patterns.
-GitHub: Real-Time Smart Bank Data Streaming
-🧠 Kickstarter Success Prediction
-Built a Kickstarter success prediction model using Random Forest and LSTM, achieving 93% accuracy.
-Designed Power BI & Tableau dashboards analyzing 18.7K projects across 21 countries, identifying funding patterns & success drivers.
-GitHub: 🚀 Kickstarter Success Prediction | Kickstarter Platform Analysis
-📊 Carbon Emission Prediction using LSTM
-Built an LSTM-based model to predict carbon emissions and estimated the cost of achieving carbon neutrality for the top 4 polluting countries.
-GitHub: Carbon Emission Prediction
-⚡ Skills & Technologies
-💾 SQL, Python, R, Java, PySpark
-📊 Power BI, Tableau, Kibana, EDA
-☁️ AWS, Azure, Databricks, Snowflake, MongoDB, PostgreSQL
-🚀 Apache Spark, Hadoop, TensorFlow, Scikit-Learn
-🔧 Docker, Git, A/B Testing, Agile, CI/CD
-🛠 ETL Pipelines, Data Modeling, Cloud Data Warehousing
+I'm a data-driven enthusiast with 4+ years of experience engineering robust ETL pipelines, real-time streaming solutions, and ML-powered systems. I turn raw data into actionable insights through scalable, cloud-native architectures.
 
-🌟 Fun Facts About Me
-🔍 I enjoy solving complex data challenges – whether it's optimizing SQL queries or debugging ETL pipelines.
-🎨 I love creating interactive dashboards that tell compelling data stories.
-🎯 I regularly work on side projects exploring real-world datasets & predictive modeling.
-💡 Open to full-time opportunities in Data Engineering, Data Analytics, and Data Science.
-🤝 Excited to collaborate on data-driven projects, research, and real-world challenges. Let's connect! LinkedIn
+- 🎓 MS in Data Analytics@ San Jose University
+- 💼 Worked across fintech, analytics, and consumer platforms
+- 🤝 Always excited to collaborate on real-world data challenges
 
-🚀 Feel free to explore my work: GitHub Repositories
-📊 GitHub Stats & Badges
-GitHub Stats Top Langs Profile Views
--->
+---
+
+### 🔥 Featured Projects
+
+#### 📊 Real-Time Smart Bank Data Streaming
+- Developed a fraud detection system using Kafka, PySpark & MongoDB to process over 1M transactions
+- 99% anomaly detection accuracy and Flask/Kibana dashboard with 1s refresh rate  
+🔗 [View on GitHub](https://github.com/faraazzz/real-time-bank-streaming)
+
+#### 🚀 Kickstarter Success Prediction
+- Built ML model (Random Forest + LSTM) predicting project success with 93% accuracy
+- Power BI & Tableau dashboards analyzing 18.7K projects across 21 countries  
+🔗 [View on GitHub](https://github.com/faraazzz/kickstarter-success)
+
+#### 🌱 Carbon Emission Forecasting
+- LSTM-based forecasting model for carbon emissions and cost of neutrality across top polluting nations  
+🔗 [View on GitHub](https://github.com/faraazzz/carbon-lstm)
+
+---
+
+### 💻 Tech Stack & Expertise
+
+#### ⚡ Programming & Query Languages
+`Python` `SQL` `R` `Java` `PySpark`
+
+#### 📊 Data Analysis & BI Tools
+`Power BI` `Tableau` `Kibana` `Pandas` `EDA`
+
+#### ☁️ Cloud & Big Data Ecosystem
+`AWS` `Azure` `Databricks` `Snowflake` `MongoDB` `PostgreSQL`
+
+#### 🚀 Frameworks & Libraries
+`Apache Spark` `Hadoop` `TensorFlow` `Scikit-Learn` `Matplotlib` `Seaborn`
+
+#### 🔧 DevOps & Productivity
+`Docker` `Git` `CI/CD Pipelines` `A/B Testing` `Agile`
+
+#### 🛠️ Engineering Expertise
+- ETL Pipelines & Batch/Stream Processing
+- Cloud Data Warehousing & Data Lakes
+- Real-Time Analytics Systems
+- Predictive Modeling & Forecasting
+- Feature Engineering & MLOps
+- Dashboard Design & Stakeholder Reporting
+
+---
+
+### 🧠 Fun Facts
+
+- 🛠 I enjoy debugging tricky data pipelines and optimizing complex SQL joins
+- 📊 I create dashboards that turn heads and tell stories
+- 🤖 I tinker with side projects involving AI/ML and real-world open datasets
+- 🌎 I believe good data leads to great decisions
+
+---
+
+### 📈 GitHub Stats & Badges
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faraazzz&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraazzz&layout=compact&theme=radical" width="340"/>
+  <br/>
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=faraazzz&color=blue" alt="Profile views"/>
+</p>
+
+---
+
+### 📫 Let’s Connect
+
+- 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/syedfaraaz/](https://www.linkedin.com/in/syedfaraaz/)
+- 📧 Email: syedfaraaz.ahmd@gmail.com
+
+---
+
+
+
