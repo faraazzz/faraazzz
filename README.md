@@ -20,7 +20,7 @@ I'm a data-driven enthusiast with 4+ years of experience engineering robust ETL 
 #### 📊 Real-Time Smart Bank Data Streaming
 - Developed a fraud detection system using Kafka, PySpark & MongoDB to process over 1M transactions
 - 99% anomaly detection accuracy and Flask/Kibana dashboard with 1s refresh rate  
-🔗 [View on GitHub](https://github.com/faraazzz/real-time-bank-streaming)
+🔗 [View on GitHub](https://github.com/faraazzz/Real-Time-Smart-Bank-Data-Streaming-Capture_BigData)
 
 #### 🚀 Kickstarter Success Prediction
 - Built ML model (Random Forest + LSTM) predicting project success with 93% accuracy
