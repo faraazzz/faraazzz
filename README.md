@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/faraazzz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Software+%26+Data+Engineer;ML+%26+AI+Pipeline+Builder;Crunching+numbers+so+business+minds+don%27t+have+to!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Crunching+numbers+so+business+minds+don%27t+have+to!" alt="Typing SVG" />
   </a>
 </p>
 
