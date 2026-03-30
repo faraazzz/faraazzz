@@ -199,9 +199,10 @@ Gmail ──► dlt ──► Ollama LLM ──► BigQuery ──► Slack
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faraazzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraazzz&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=faraazzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraazzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" />
 </p>
 
 <p align="center">
@@ -210,14 +211,6 @@ Gmail ──► dlt ──► Ollama LLM ──► BigQuery ──► Slack
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=faraazzz&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faraazzz&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 ---
