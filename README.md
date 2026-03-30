@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Syed%20Faraaz&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20ML%20%7C%20AI%20Pipeline%20Builder&descAlignY=60&descSize=22&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1a1a2e&height=160&text=Syed%20Faraaz%20Ahmed&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=50&desc=Software%20%26%20Data%20Engineer%20%7C%20ML%20%7C%20AI%20Pipeline%20Builder&descAlignY=75&descSize=20&descColor=8b949e" />
 
 <p align="center">
   <a href="https://github.com/faraazzz">
@@ -24,8 +24,8 @@
 
 ```python
 class SyedFaraaz:
-    name       = "Syed Faraaz"
-    role       = ["Data Engineer", "ML Engineer", "AI Pipeline Builder"]
+    name       = "Syed Faraaz Ahmed"
+    role       = ["Software Engineer", "Data Engineer", "ML Engineer", "AI Pipeline Builder"]
     email      = "syedfaraaz.ahmd@gmail.com"
     github     = "github.com/faraazzz"
     interests  = ["LLMs", "Data Pipelines", "Real-Time Streaming", "Big Data"]
@@ -159,9 +159,9 @@ Gmail → dlt → Ollama (LLM) → BigQuery → Slack
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faraazzz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=faraazzz&show_icons=true&theme=tokyonight&hide_border=true" height="175"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraazzz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=8b949e" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraazzz&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
 </p>
 
 <p align="center">
