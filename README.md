@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/faraazzz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=👨‍💻+Software+Developer;📊+Data+Analyst+%7C+Turning+data+into+decisions;🔧+Data+Engineer+%7C+Building+robust+pipelines;🤖+AI%2FML+Engineer+%7C+Powering+intelligent+systems;🚀+Crunching+numbers+so+business+minds+don't+have+to!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Software+Developer;Data+Analyst+%7C+Turning+data+into+decisions;Data+Engineer+%7C+Building+robust+pipelines;AI+%2F+ML+Engineer+%7C+Powering+intelligent+systems;Crunching+numbers+so+business+minds+don%27t+have+to!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -199,17 +199,17 @@ Gmail ──► dlt ──► Ollama LLM ──► BigQuery ──► Slack
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faraazzz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=faraazzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraazzz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=8b949e" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraazzz&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=faraazzz&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com?user=faraazzz&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faraazzz&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=1a1a2e" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faraazzz&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
