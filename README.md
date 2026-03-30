@@ -1,7 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:1a1a2e&amp;height=160&amp;section=header" />
-
-<h1 align="center">Syed Faraaz Ahmed</h1>
-<h3 align="center">Software &amp; Data Engineer &nbsp;|&nbsp; ML &nbsp;|&nbsp; AI Pipeline Builder</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=220&amp;section=header&amp;text=Syed%20Faraaz%20Ahmed&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Software%20%26%20Data%20Engineer%20%7C%20ML%20%7C%20AI%20Pipeline%20Builder&amp;descAlignY=60&amp;descSize=20&amp;descColor=c8d6e5" />
 
 <p align="center">
   <a href="https://github.com/faraazzz">
