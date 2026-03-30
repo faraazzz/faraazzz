@@ -1,20 +1,20 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1a1a2e&height=160&text=Syed%20Faraaz%20Ahmed&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=50&desc=Software%20%26%20Data%20Engineer%20%7C%20ML%20%7C%20AI%20Pipeline%20Builder&descAlignY=75&descSize=20&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0D1117,100:1a1a2e&amp;height=160&amp;text=Syed%20Faraaz%20Ahmed&amp;fontSize=60&amp;fontColor=58a6ff&amp;animation=fadeIn&amp;fontAlignY=50&amp;desc=Software%20%26%20Data%20Engineer%20%7C%20ML%20%7C%20AI%20Pipeline%20Builder&amp;descAlignY=75&amp;descSize=20&amp;descColor=8b949e" />
 
 <p align="center">
   <a href="https://github.com/faraazzz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Crunching+numbers+so+business+minds+don%27t+have+to!;Data+Engineer+%7C+ML+Engineer+%7C+AI+Builder;Turning+raw+data+into+business+value+%F0%9F%9A%80;Building+AI-powered+pipelines+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Software+%26+Data+Engineer;ML+%26+AI+Pipeline+Builder;Crunching+numbers+so+business+minds+don%27t+have+to!" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faraazzz&label=Profile+Views&color=58a6ff&style=for-the-badge" />
-  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=faraazzz&amp;label=Profile+Views&amp;color=58a6ff&amp;style=for-the-badge" />
+  &#160;
   <a href="https://github.com/faraazzz?tab=followers">
-    <img src="https://img.shields.io/github/followers/faraazzz?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" />
+    <img src="https://img.shields.io/github/followers/faraazzz?label=Followers&amp;style=for-the-badge&amp;color=58a6ff&amp;labelColor=0d1117" />
   </a>
-  &nbsp;
+  &#160;
   <a href="mailto:syedfaraaz.ahmd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-syedfaraaz.ahmd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Gmail-syedfaraaz.ahmd%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0d1117" />
   </a>
 </p>
 
@@ -45,25 +45,25 @@ class SyedFaraaz:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/dlt-000000?style=for-the-badge&logo=data&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/dlt-000000?style=for-the-badge&amp;logo=data&amp;logoColor=white"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kestra-6366F1?style=for-the-badge&logo=kestra&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&amp;logo=ollama&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Kestra-6366F1?style=for-the-badge&amp;logo=kestra&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white"/>
 
 </p>
 
@@ -159,17 +159,17 @@ Gmail → dlt → Ollama (LLM) → BigQuery → Slack
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faraazzz&show_icons=true&theme=tokyonight&hide_border=true" height="175"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraazzz&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=faraazzz&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="175"/>
+  &#160;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraazzz&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="175"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=faraazzz&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com?user=faraazzz&amp;theme=tokyonight&amp;hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faraazzz&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faraazzz&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" />
 </p>
 
 ---
@@ -178,11 +178,11 @@ Gmail → dlt → Ollama (LLM) → BigQuery → Slack
 
 <p align="center">
   <a href="mailto:syedfaraaz.ahmd@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
-  &nbsp;
+  &#160;
   <a href="https://github.com/faraazzz">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
 </p>
 
@@ -193,4 +193,4 @@ Gmail → dlt → Ollama (LLM) → BigQuery → Slack
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16213e,50:1a1a2e,100:0D1117&amp;height=120&amp;section=footer" />
