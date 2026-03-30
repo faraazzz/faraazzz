@@ -1,92 +1,196 @@
-<h1 align="center">Hi there, I'm Syed Faraaz 👋</h1>
-
-<p align="center">
-  <em>Crunching numbers so business minds don't have to!</em>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Syed%20Faraaz&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20ML%20%7C%20AI%20Pipeline%20Builder&descAlignY=60&descSize=22&descColor=8b949e" />
 
 <p align="center">
   <a href="https://github.com/faraazzz">
-    <img src="https://komarev.com/ghpvc/?username=faraazzz&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Crunching+numbers+so+business+minds+don%27t+have+to!;Data+Engineer+%7C+ML+Engineer+%7C+AI+Builder;Turning+raw+data+into+business+value+%F0%9F%9A%80;Building+AI-powered+pipelines+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faraazzz&label=Profile+Views&color=58a6ff&style=for-the-badge" />
+  &nbsp;
   <a href="https://github.com/faraazzz?tab=followers">
-    <img src="https://img.shields.io/github/followers/faraazzz?label=Followers&style=social" alt="followers" />
+    <img src="https://img.shields.io/github/followers/faraazzz?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="mailto:syedfaraaz.ahmd@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-syedfaraaz.ahmd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-- 🔭 I build **data pipelines, ML models, and AI-powered tools** that turn raw data into business value
-- 🤖 Currently exploring **Local LLMs, AI Agents, and Data Engineering** at scale
-- 📊 Passionate about **Big Data, Streaming, and Real-Time Analytics**
-- 🎯 Goal: Making complex data accessible and actionable for non-technical stakeholders
-- 🌱 Always learning — currently deep in **LLM Engineering & Data Engineering**
+```python
+class SyedFaraaz:
+    name       = "Syed Faraaz"
+    role       = ["Data Engineer", "ML Engineer", "AI Pipeline Builder"]
+    email      = "syedfaraaz.ahmd@gmail.com"
+    github     = "github.com/faraazzz"
+    interests  = ["LLMs", "Data Pipelines", "Real-Time Streaming", "Big Data"]
+    currently  = "Building AI-powered data workflows with local LLMs"
+    motto      = "Data is the new oil — I'm the refinery 🛢️"
+```
 
----
-
-## Tech Stack
-
-**Languages & Notebooks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Data & Cloud**
-
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-
-**AI & ML**
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Kestra](https://img.shields.io/badge/Kestra-6366F1?style=for-the-badge&logo=kestra&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+- 🔭 Building **end-to-end AI & data pipelines** that deliver business insights automatically
+- 🤖 Exploring **Local LLMs (Ollama), Kestra, dlt** for intelligent workflow automation
+- 📊 Experienced in **Big Data Streaming, ETL pipelines, and ML modeling**
+- 🌱 Deep diving into **LLM Engineering & Advanced Data Engineering**
+- 🎯 Making complex data **simple, fast, and actionable** for non-technical stakeholders
 
 ---
 
-## Featured Projects
-
-### 🤖 [AI Gmail Summarization Pipeline](https://github.com/faraazzz/AI-Gmail-Summarization-pipeline)
-> End-to-end workflow: **Gmail → dlt → Ollama (Local LLM) → BigQuery → Slack**
-> Automatically summarizes emails using a local LLM and delivers insights to Slack
-
-### 🏠 [Real Estate Value Estimation on Zillow](https://github.com/faraazzz/RealEstate-Value-Estimation-on-Zillow)
-> ML model to predict property values using Zillow data
-
-### 🏦 [Real-Time Smart Bank Data Streaming](https://github.com/faraazzz/Real-Time-Smart-Bank-Data-Streaming-Capture_BigData)
-> Big Data pipeline for real-time banking data capture and processing
-
-### 🖼️ [Unpaired Image-to-Image Translation](https://github.com/faraazzz/Unpaired-Image-to-Image-Translation)
-> Deep learning model for image style transfer without paired training data
-
----
-
-## GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faraazzz&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraazzz&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faraazzz&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/dlt-000000?style=for-the-badge&logo=data&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kestra-6366F1?style=for-the-badge&logo=kestra&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
 </p>
 
 ---
 
-## Connect With Me
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🤖 AI Gmail Summarization Pipeline
+
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/faraazzz/AI-Gmail-Summarization-pipeline)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kestra](https://img.shields.io/badge/-Kestra-6366F1?style=flat-square)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+End-to-end **AI email automation**:
+
+```
+Gmail → dlt → Ollama (LLM) → BigQuery → Slack
+```
+
+- 📥 Fetches emails via Gmail API
+- 🧠 Summarizes with a **local LLM** (no cloud)
+- 📊 Stores structured data in BigQuery
+- 📲 Pushes summaries to Slack
+- ⚙️ Fully orchestrated with Kestra
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🏠 Real Estate Value Estimation
+
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/faraazzz/RealEstate-Value-Estimation-on-Zillow)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**ML regression model** on Zillow data:
+
+- 🏡 Predicts property prices with ML
+- 🔍 Feature engineering on property data
+- 📈 Multiple regression models benchmarked
+- 📊 EDA with heatmaps & distribution plots
+- 🎯 Evaluated using RMSE & R² metrics
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🏦 Real-Time Smart Bank Streaming
+
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/faraazzz/Real-Time-Smart-Bank-Data-Streaming-Capture_BigData)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![BigData](https://img.shields.io/badge/-Big_Data-FF6F00?style=flat-square)
+
+**Big Data streaming** for banking analytics:
+
+- ⚡ Real-time transaction ingestion
+- 🌊 Stream processing at scale
+- 🔒 Fraud detection-ready pipeline
+- 📦 Handles high-throughput data
+- 📊 Dashboard-ready data output
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🎨 Unpaired Image Translation (CycleGAN)
+
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/faraazzz/Unpaired-Image-to-Image-Translation)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Deep learning** image style transfer:
+
+- 🖼️ Implements CycleGAN architecture
+- 🔁 No paired training data needed
+- 🎭 Horses↔Zebras, Photo↔Painting
+- 🧪 Trained on benchmark datasets
+- 📐 Evaluated with FID & visual quality
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faraazzz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" height="175"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraazzz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=8b949e" height="175"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=faraazzz&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faraazzz&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:syedfaraaz.ahmd@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://github.com/faraazzz">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <i>Open to collaborations on Data Engineering, AI pipelines, and ML projects!</i><br/>
+  <i>Feel free to reach out — always happy to connect with fellow data enthusiasts 🚀</i>
 </p>
 
 ---
 
-<p align="center">
-  <i>"Data is the new oil — I'm the refinery."</i>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer" />
