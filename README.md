@@ -1,4 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=220&amp;section=header&amp;text=Syed%20Faraaz%20Ahmed&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Software%20%26%20Data%20Engineer%20%7C%20ML%20%7C%20AI%20Pipeline%20Builder&amp;descAlignY=60&amp;descSize=20&amp;descColor=c8d6e5" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=140&amp;section=header" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=900&amp;size=45&amp;duration=4000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=80&amp;lines=Syed+Faraaz+Ahmed" alt="Syed Faraaz Ahmed" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=8b949e&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=40&amp;lines=Software+%26+Data+Engineer+%7C+ML+%7C+AI+Pipeline+Builder" alt="Role" />
+</p>
 
 <p align="center">
   <a href="https://github.com/faraazzz">
