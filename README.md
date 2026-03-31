@@ -201,13 +201,19 @@ Gmail → dlt → Ollama (LLM) → BigQuery → Slack
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faraazzz&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faraazzz&amp;theme=tokyonight" height="180"/>
   &#160;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraazzz&amp;theme=tokyonight&amp;hide_border=true&amp;layout=donut&amp;langs_count=8" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faraazzz&amp;theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraazzz&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=10&amp;card_width=600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faraazzz&amp;theme=tokyonight" height="180"/>
+  &#160;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faraazzz&amp;theme=tokyonight&amp;utcOffset=8" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=faraazzz&amp;theme=tokyonight&amp;hide_border=true" />
 </p>
 
 <p align="center">
