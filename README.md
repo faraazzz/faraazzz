@@ -151,7 +151,46 @@ Gmail → dlt → Ollama (LLM) → BigQuery → Slack
 - 🔁 No paired training data needed
 - 🎭 Horses↔Zebras, Photo↔Painting
 - 🧪 Trained on benchmark datasets
-- 📐 Evaluated with FID & visual quality
+- 📐 Evaluated with FID &amp; visual quality
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔬 Chip Defect Detection &amp; Classification
+
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/faraazzz/Chip-Defect-Detection-CV)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-00BFFF?style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Computer vision** for semiconductor QC:
+
+- 🔍 **YOLOv8** detects 6 PCB defect types
+- 🧠 **Custom CNN** classifies 9 wafer failure patterns
+- 🌐 Flask web app with image upload &amp; results UI
+- ☁️ AWS S3 integration for data &amp; model outputs
+- 📊 User feedback loop for continuous improvement
+
+    </td>
+    <td width="50%" valign="top">
+
+### 📊 SJSU ID Industry Survey Dashboard
+
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/faraazzz/Industry-Survey-Website)
+[![Live](https://img.shields.io/badge/Live-designknowhow.org-00EEFF?style=flat-square&logo=google-chrome&logoColor=white)](https://designknowhow.org)
+![D3.js](https://img.shields.io/badge/-D3.js_v7-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Interactive data viz** for design professionals:
+
+- 📈 Jittered scatter plots of 7-point Likert data
+- 🔄 Diverging bar charts (Traditional vs Digital)
+- 🎛️ Real-time filters by experience &amp; job role
+- 📦 Dynamic Excel loading via XLSX.js
+- 🌐 WordPress-embedded, live at designknowhow.org
 
     </td>
   </tr>
