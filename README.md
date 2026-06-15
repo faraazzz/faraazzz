@@ -36,7 +36,7 @@ class SyedFaraaz:
     location    = "San Jose, CA"
     email       = "syedfaraaazahmed@gmail.com"
     experience  = "5+ years"
-    current     = "Scale AI — LLM Evaluation & Synthetic Data Platforms"
+    current     = "LLM Evaluation & Synthetic Data Platforms"
     specialties = ["LLMs", "RLHF/RLAIF", "RAG", "Multi-Agent Systems", "Distributed ML"]
     motto       = "Build AI that's reliable, aligned, and production-ready 🚀"
 ```
@@ -51,7 +51,7 @@ class SyedFaraaz:
 
 ## 💼 Experience
 
-### Scale AI — AI/ML Engineer *(June 2024 – Present · San Jose, CA)*
+### AI/ML Engineer *(June 2024 – Present · San Jose, CA)*
 
 - Architected enterprise LLM evaluation platform supporting **12+ foundation models** (LLaMA 3.x, Mistral, Mixtral, Falcon, BERT, RoBERTa)
 - Designed distributed evaluation pipelines using **PyTorch Lightning, Hugging Face & Ray** — processing **1.5M+ prompts/week**
@@ -64,7 +64,7 @@ class SyedFaraaz:
 - Built real-time LLM monitoring dashboards using **Prometheus & Grafana** for hallucination, drift, and bias tracking
 - Automated synthetic data curation pipelines (JSONL, PDF, multimodal) — increasing annotation efficiency by **45%**
 
-### Accenture — ML Engineer *(Jan 2020 – July 2023 · India)*
+### ML Engineer *(Jan 2020 – July 2023 · India)*
 
 - Built recommendation systems, fraud detection, and campaign optimization models using **XGBoost & LightGBM**
 - Deployed deep learning models **(CNNs, LSTMs, Transformers)** for text analytics and customer insights
